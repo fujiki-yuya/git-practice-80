@@ -1,2 +1,2 @@
 practice71-1
-remote main branch
+local main branch
